@@ -1,1 +1,1 @@
-# Omni-minecraft-server-software-
+Minecraft Server software for all versions to join. Java, Hytale, Bedrock, Eaglercraft, Older versions, etc. (only Java and Hytale right now), built in the GO coding language with a Java-built plugin manager (may build a feature to switch between plugins and mods(no, you can't use both at once)) 
